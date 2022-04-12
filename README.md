@@ -53,7 +53,7 @@ The reason for documenting my journey and sharing my notes is to inspire people 
  ✔ Scope Rules in Go <br/>
  ✔ Maps <br/>
  ✔ Structs <br/>
- ✔ Goroutines - Concurrency in Go <br/>
+ ✔ Goroutines -  in Go <br/>
 
 ### [Introduction to YAML](https://youtu.be/IA90BTozdow)
  ✔ What is YAML <br/>
